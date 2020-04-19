@@ -1,0 +1,28 @@
+{
+  "name": "workshop-rocketseat",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido durante workshop introdutório ao programa Launchbase",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/costamarcelo/workdev-rocketseat.git"
+  },
+  "keywords": [],
+  "author": "Marcelo Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/costamarcelo/workdev-rocketseat/issues"
+  },
+  "homepage": "https://github.com/costamarcelo/workdev-rocketseat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "expresss": "0.0.0",
+    "nodemon": "^2.0.3",
+    "nunjucks": "^3.2.1",
+    "sqlite3": "^4.1.1"
+  }
+}
